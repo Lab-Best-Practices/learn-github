@@ -8,16 +8,27 @@
 ## Ref
 
 Learn Git Branching https://learngitbranching.js.org
+Download Git https://git-scm.com/downloads
+
+### Ref by LBP
+
+- [Gitlab](https://github.com/Lab-Best-Practices/learn-gitlab)
+- [Bitbucket](/learn-bitbucket)
 
 ## refbyTri
 
 https://github.com/bvtri
+
 https://github.com/buinavtri
+
 https://github.com/tribuirt
+
 https://cv.anhem.fun
+
 https://github.com/buivantriTR
 
 https://vn.linkedin.com/in/buivantri-b7i
+
 https://vn.linkedin.com/in/trivbuit
 
 # Github
