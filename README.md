@@ -8,3 +8,19 @@
 ## Ref
 
 Learn Git Branching https://learngitbranching.js.org
+
+# Github
+
+## Đăng ký
+
+https://github.com/signup
+
+## Đăng nhập
+
+https://github.com/login
+
+## Cài đặt
+
+Trên Windows/ MacOS
+
+https://desktop.github.com
