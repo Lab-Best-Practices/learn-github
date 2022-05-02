@@ -7,13 +7,13 @@
 
 ## Ref
 
-Learn Git Branching https://learngitbranching.js.org
-Download Git https://git-scm.com/downloads
+- Learn Git Branching https://learngitbranching.js.org
+- Download Git https://git-scm.com/downloads
 
 ### Ref by LBP
 
 - [Gitlab](https://github.com/Lab-Best-Practices/learn-gitlab)
-- [Bitbucket](/learn-bitbucket)
+- [Bitbucket](https://github.com/Lab-Best-Practices/learn-gitlab)
 
 ## refbyTri
 
